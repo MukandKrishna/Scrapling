@@ -524,11 +524,6 @@ This image is automatically built and pushed using GitHub Actions and the reposi
 
 We welcome contributions! Please read our [contributing guidelines](https://github.com/D4Vinci/Scrapling/blob/main/CONTRIBUTING.md) before getting started.
 
-## Disclaimer
-
-> [!CAUTION]
-> This library is provided for educational and research purposes only. By using this library, you agree to comply with local and international data scraping and privacy laws. The authors and contributors are not responsible for any misuse of this software. Always respect the terms of service of websites and robots.txt files.
-
 ## 🎓 Citations
 If you have used our library for research purposes please quote us with the following reference:
 ```text
